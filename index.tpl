@@ -29,7 +29,7 @@
 	<div class="helloworld"></div> 
  </div> 
  
- <h2>You did it!</h2> <h3 class="blue">Your application is now running in the Cloud!</h3> 
+ <h2>You did it!</h2> <h3 class="blue">Your application is now running in the Cloud! Hoepekee!</h3> 
  
 	<div class="nodename">
 		{{.Hostname}}
